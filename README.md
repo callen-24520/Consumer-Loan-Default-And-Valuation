@@ -12,5 +12,5 @@ Note: The default classifier is trained with an F2 score to limit type II errors
 
 Future Improvements:
 1) Add Logistic Regression & XGBoost model builds
-2) Use a limited number of features in model training to make the default classifiers more broadly useful 
+2) Use a limited number of features in model training to make the default classifier more broadly useful 
 3) Add optional recovery lags on defaulted loans in valuation notebook 
