@@ -2,6 +2,9 @@
 
 A personal project constructing a consumer loan default classifier from historical LendingClub data(https://www.kaggle.com/wordsforthewise/lending-club). The trained model is used to make predictions in the valuation notebook resulting in bifurcated assumptions being applied.
 
+Tableau Visualizations:
+https://public.tableau.com/app/profile/christian4118
+
 Notebook order:
 1) Exploratory Data Analysis
 2) Feature Engineering
